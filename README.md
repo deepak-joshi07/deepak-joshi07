@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Deepak Joshi 👋</h1>
 
-<!--
-**deepak-joshi07/deepak-joshi07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 Aspiring Machine Learning Developer | 💻 Python, Pandas, NumPy, Seaborn | 📊 Learning Stats & ML Models
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🔭 Focused on building a career in **Machine Learning & Data Science**
+- 🧠 Skilled in **Python**, **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**
+- 📊 Currently learning **Descriptive Statistics**, **EDA**, and **Model Building**
+- 🧪 Exploring ML concepts through **hands-on learning**
+- 🌱 Passionate about solving real-world problems using data
+
+---
+
+### 🧰 Tools & Libraries I Use
+
+- **Languages**: Python
+- **Libraries**: Pandas, NumPy, Seaborn, Matplotlib
+- **Tools**: Git, GitHub, Jupyter Notebook, VS Code
+
+---
+
+### 📫 Let’s Connect
+
+- 📧 **Email**: [deepak728439@gmail.com](mailto:deepak728439@gmail.com)
+- 💼 **LinkedIn**: [linkedin.com/in/deepak-joshi07](https://www.linkedin.com/in/deepak-joshi07/)
+
+
+
+---
+
+<p align="center">
+  📍 On a journey to become an ML Engineer — one dataset at a time.
+</p>
