@@ -26,7 +26,7 @@
 
 ### 📫 Let’s Connect
 
-- 📧 **Email**: [deepu01@zohomail.in](mailto:deepu01@zohomail.in)
+- 📧 **Email**: [deepakjoshi98@zohomail.in](mailto:deepakjoshi98@zohomail.in)
 - 💼 **LinkedIn**: [linkedin.com/in/deepak-joshi07](https://www.linkedin.com/in/deepak-joshi-71087a268/)
 
 ---
