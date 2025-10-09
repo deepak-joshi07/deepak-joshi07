@@ -18,8 +18,8 @@
 
 ### 🧰 Tools & Libraries I Use
 
-- **Languages**: Python
-- **Libraries**: Pandas, NumPy, Seaborn, Matplotlib
+- **Languages**: Python  
+- **Libraries**: Pandas, NumPy, Seaborn, Matplotlib  
 - **Tools**: Git, GitHub, Jupyter Notebook, VS Code
 
 ---
@@ -28,8 +28,6 @@
 
 - 📧 **Email**: [deepu01@zohomail.in](mailto:deepu01@zohomail.in)
 - 💼 **LinkedIn**: [linkedin.com/in/deepak-joshi07](https://www.linkedin.com/in/deepak-joshi-71087a268/)
-
-
 
 ---
 
